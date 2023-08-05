@@ -5,7 +5,7 @@
 
 | Version | Supported          |
 | ------- | ------------------ |
-| 1.0.0   | MacOS and Linux Work, windows no tested  |
+| 1.0.0   | MacOS and Linux work, Windows no tested  |
 
 
 ## Reporting a Vulnerability
