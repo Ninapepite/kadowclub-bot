@@ -20,3 +20,7 @@ Pour le lancer :
  ```javascript
   npm run bot
  ```
+
+## Exemple :
+
+https://drive.google.com/file/d/1yG6QFbSPQ0dydIz0Ux0d8YQoNnNEoQrt/view?usp=drivesdk
