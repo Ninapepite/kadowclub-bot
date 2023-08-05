@@ -11,6 +11,8 @@ Pour build le projet :
 
 Remplacer smtp_example.json en smtp.json avec les informations de votre compte SMTP.
 
+Dans la fonction d'envoie SMTP remplacer YourEmail par votre email pour la reception du lien.
+
 Télécharger selenium driver et le mettre dans le dossier du projet. 
 
 Pour le lancer : 
