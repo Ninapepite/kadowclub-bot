@@ -24,3 +24,8 @@ Pour le lancer :
 ## Exemple :
 
 https://drive.google.com/file/d/1yG6QFbSPQ0dydIz0Ux0d8YQoNnNEoQrt/view?usp=drivesdk
+
+## Responsabilité :
+
+Je décline toutes responsabilités pour l'utilisation de ce code. 
+Uniquement à utilisé comme exemple/demo/essais.
