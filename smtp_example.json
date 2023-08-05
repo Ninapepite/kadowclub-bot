@@ -1,0 +1,8 @@
+{
+    "Smtp": {
+        "Host": "smtp.gmail.com",
+        "Port": 587,
+        "Identifiant": "yourgmail@gmail.com",
+        "Pass": ""
+    }
+}
