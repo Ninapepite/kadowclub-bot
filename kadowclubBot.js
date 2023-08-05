@@ -26,7 +26,7 @@ async function sendEmail(emailaddress, winningText, screenshot) {
 
   let info = await transporter.sendMail({
     from: smtpConfig.Smtp.Identifiant,
-    to: "killian.stein@icloud.com",
+    to: "YourEmail.com",
     subject: `Gagné: ${winningText}`,
     text: `Adresse Email: ${emailaddress}\nGagné: ${winningText}`,
     attachments: [{
